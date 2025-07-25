@@ -158,7 +158,7 @@ const Contact: React.FC = () => (
         <div className="stats-grid">
           <div className="stat-item">
             <div className="stat-number">24/7</div>
-            <div className="stat-label">Jobless 💔</div>
+            <div className="stat-label">Coding</div>
           </div>
           <div className="stat-item">
             <div className="stat-number">100%</div>
